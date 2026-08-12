@@ -1,3 +1,4 @@
+#Mac OS
 .DS_Store
 
 # Compiled class file
@@ -24,3 +25,22 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# 本地环境与密钥
+.env
+*.pem
+*.key
