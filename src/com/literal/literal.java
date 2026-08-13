@@ -28,17 +28,17 @@ public class Java_learning {
   */
 
  /*
- 小数类型：
+ 小数(double)类型：
  13.14
   */
 
  /*
- 整数类型：
+ 整数(int)类型：
  520
   */
 
  /*
- 布尔类型：
+ 布尔(boll)类型：
  true
  false
   */
