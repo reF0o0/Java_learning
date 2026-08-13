@@ -2,7 +2,7 @@ package com.study;
 
 public class Java_learning {
     public static void main(String[] args){
-
+    System.out.println("胡桃我爱你！");
     }
 }
 
@@ -12,3 +12,38 @@ public class Java_learning {
 多行注释（command + shift + /）
  */
 
+//字面量
+
+/*
+字符串类型：
+ "胡桃"
+ "123" + "456" = "123456"
+ 字符串拼接
+ */
+
+ /*
+ 字符类型：
+ '女'
+ 单引号，只能有一个数字、汉字
+  */
+
+ /*
+ 小数类型：
+ 13.14
+  */
+
+ /*
+ 整数类型：
+ 520
+  */
+
+ /*
+ 布尔类型：
+ true
+ false
+  */
+
+ /*
+ 空类型：
+ null
+  */
