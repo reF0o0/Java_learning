@@ -38,7 +38,7 @@ public class literal_demo1 {
  */
 
 /*
- * 布尔(boll)类型：
+ * 布尔(bool)类型：
  * true
  * false
  */
