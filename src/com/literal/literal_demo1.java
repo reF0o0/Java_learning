@@ -1,6 +1,6 @@
 package com.literal;
 
-public class literal {
+public class literal_demo1 {
     public static void main(String[] args) {
         System.out.println("胡桃我爱你！");
     }
