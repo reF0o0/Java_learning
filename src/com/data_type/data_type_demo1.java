@@ -49,3 +49,5 @@ public class data_type_demo1 {
  * 字符串
  * String
  */
+
+//double > float > long > int > short > byte
