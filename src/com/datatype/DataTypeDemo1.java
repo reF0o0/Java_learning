@@ -1,6 +1,6 @@
-package com.data_type;
+package com.datatype;
 
-public class data_type_demo1 {
+public class DataTypeDemo1 {
     public static void main(String[] args) {
         //long类型数据必须以 L 结尾(大小写均可)
         long a = 1000000000000L;
