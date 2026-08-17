@@ -1,6 +1,6 @@
-package com.store_rule;
+package com.storerule;
 
-public class store_rule_int {
+public class StoreRuleInt {
     public static void main(String[] args) {
 
     }
