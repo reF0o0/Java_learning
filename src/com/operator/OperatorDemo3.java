@@ -13,6 +13,6 @@ public class OperatorDemo3 {
         int minutes = (time % 3600) / 60;
         int seconds = time % 60;
         
-        System.out.print(hours + "小时" + minutes + "分" + seconds + "秒");
+        System.out.println(hours + "小时" + minutes + "分" + seconds + "秒");
     }
 }
