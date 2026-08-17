@@ -1,6 +1,6 @@
 package com.variable;
 
-public class variable_demo2 {
+public class VariableDemo2 {
     public static void main(String[] args) {
         int attack1 = 220;
         int defense1 = 85;

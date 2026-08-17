@@ -1,6 +1,6 @@
 package com.variable;
 
-public class variable_demo1 {
+public class VariableDemo1 {
     public static void main(String[] args) {
         double wechat_money = 0;
         double alipay_money = 10;
