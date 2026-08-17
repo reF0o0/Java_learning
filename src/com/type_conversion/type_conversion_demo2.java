@@ -1,3 +1,5 @@
+package com.type_conversion;
+
 public class type_conversion_demo2 {
     public static void main(String[] args) {
         byte b = 100;
