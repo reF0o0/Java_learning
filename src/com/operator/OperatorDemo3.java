@@ -2,7 +2,7 @@ package com.operator;
 
 import java.util.Scanner;
 
-public class operator_demo3 {
+public class OperatorDemo3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

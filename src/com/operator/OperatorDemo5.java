@@ -1,6 +1,6 @@
 package com.operator;
 
-public class operator_demo5 {
+public class OperatorDemo5 {
     public static void main(String[] args) {
         int a = 10;
         int b = 20;
