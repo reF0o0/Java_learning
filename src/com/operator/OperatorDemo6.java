@@ -15,7 +15,7 @@ public class OperatorDemo6 {
 
         boolean result = (num1 + num2 + num3) % 3 == 0;
 
-        System.out.println("是否能被三位数整除：");
+        System.out.println("是否能被3整除：");
         System.out.println(result);
     }
 }
