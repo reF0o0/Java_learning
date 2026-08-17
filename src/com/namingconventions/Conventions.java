@@ -1,6 +1,6 @@
-package com.ID_naming_conventions;
+package com.namingconventions;
 
-public class conventions {
+public class Conventions {
     public static void main(String[] args) {
 
     }
