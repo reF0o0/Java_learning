@@ -1,6 +1,6 @@
-package com.type_conversion;
+package com.typeconversion;
 
-public class type_conversion_demo1 {
+public class TypeConversionDemo1 {
     public static void main(String[] args) {
         byte a = 10;
         byte b = 20;

@@ -1,6 +1,6 @@
-package com.type_conversion;
+package com.typeconversion;
 
-public class type_conversion_demo2 {
+public class TypeConversionDemo2 {
     public static void main(String[] args) {
         byte b = 100;
         short s = 200;
