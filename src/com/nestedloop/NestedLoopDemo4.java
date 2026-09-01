@@ -15,4 +15,4 @@ public class NestedLoopDemo4 {
     }
 }
 
-//打印梯形
+// 打印梯形
