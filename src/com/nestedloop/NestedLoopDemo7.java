@@ -13,5 +13,6 @@ public class NestedLoopDemo7 {
 
 // 打印九九乘法表
 /*
- * \t 换行符
+ * \t 制表符
+ * 跳转到下一个Tab位
  */

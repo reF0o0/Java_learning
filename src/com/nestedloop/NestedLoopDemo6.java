@@ -7,7 +7,7 @@ public class NestedLoopDemo6 {
                 System.out.print(' ');
             }
 
-            for (int c = 3; c < i; c++){
+            for (int c = 3; c < i; c++) {
                 System.out.print(' ');
             }
 
@@ -34,4 +34,4 @@ public class NestedLoopDemo6 {
     }
 }
 
-//打印空心菱形
+// 打印空心菱形

@@ -11,4 +11,4 @@ public class NestedLoopDemo3 {
     }
 }
 
-//打印平行四边形
+// 打印平行四边形
