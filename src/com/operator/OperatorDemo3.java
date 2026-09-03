@@ -14,5 +14,7 @@ public class OperatorDemo3 {
         int seconds = time % 60;
         
         System.out.println(hours + "小时" + minutes + "分" + seconds + "秒");
+
+        sc.close();
     }
 }

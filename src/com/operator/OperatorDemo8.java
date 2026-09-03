@@ -29,6 +29,8 @@ public class OperatorDemo8 {
         boolean result_ = num_ % 7 == 0 || num_1 == 7 || num_2 == 7;
         System.out.println("是否是7的有缘数：");
         System.out.println(result_);
+
+        sc.close();
     }
 }
 

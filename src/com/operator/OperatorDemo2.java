@@ -20,5 +20,6 @@ public class OperatorDemo2 {
         System.out.println("个位数是：");
         System.out.println(num3);
 
+        sc.close();
     }
 }
