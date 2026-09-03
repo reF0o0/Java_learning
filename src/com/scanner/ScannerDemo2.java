@@ -16,5 +16,6 @@ public class ScannerDemo2 {
             System.out.println("和是：");
             System.out.println(result);
             
+            sc.close();
     }
 }

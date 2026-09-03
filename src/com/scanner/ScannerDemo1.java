@@ -16,5 +16,7 @@ public class ScannerDemo1 {
 
             String str = sc.next();
             System.out.println(str);
+
+            sc.close();
     }
 }
