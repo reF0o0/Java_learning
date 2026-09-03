@@ -2,14 +2,23 @@ package com.array;
 
 public class ArrayDemo1 {
     public static void main(String[] args) {
-        int[] ageArr2 = new int[] { 13, 14, 15 };
         int[] ageArr1 = { 13, 14, 15 };
+        int[] ageArr2 = new int[] { 13, 14, 15 };
 
-        double[] heightArr2 = new double[] { 1.5, 1.53, 1.57 };
+        System.out.println(ageArr1);
+        System.out.println(ageArr2);
+
         double[] heightArr1 = { 1.5, 1.53, 1.57 };
+        double[] heightArr2 = new double[] { 1.5, 1.53, 1.57 };
 
-        String[] nameArr2 = new String[] { "萝莉1", "萝莉2", "萝莉3" };
+        System.out.println(heightArr1);
+        System.out.println(heightArr2);
+
         String[] nameArr1 = { "萝莉1", "萝莉2", "萝莉3" };
+        String[] nameArr2 = new String[] { "萝莉1", "萝莉2", "萝莉3" };
+
+        System.out.println(nameArr1);
+        System.out.println(nameArr2);
     }
 }
 
