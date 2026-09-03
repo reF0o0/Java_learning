@@ -72,6 +72,8 @@ public class SwitchDemo4 {
         };
 
         System.out.println("结果是：" + result);
+
+        sc.close();
     }
 }
 

@@ -41,8 +41,9 @@ public class SwitchDemo2 {
             default:
                 System.out.println("输入错误");
                 break;
-
         }
+
+        sc.close();
     }
 }
 
