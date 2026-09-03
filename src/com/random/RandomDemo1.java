@@ -7,6 +7,7 @@ public class RandomDemo1 {
         Random r = new Random();
 
         int n = r.nextInt();
+        System.out.println(n);
     }
 }
 

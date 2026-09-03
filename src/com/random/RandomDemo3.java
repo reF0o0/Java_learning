@@ -38,6 +38,8 @@ public class RandomDemo3 {
                 System.out.println("随机数在" + (num - 5) + '~' + (num + 5) + "之间");
             }
         }
+
+        sc.close();
     }
 }
 
