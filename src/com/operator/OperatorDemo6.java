@@ -17,6 +17,8 @@ public class OperatorDemo6 {
 
         System.out.println("是否能被3整除：");
         System.out.println(result);
+
+        sc.close();
     }
 }
 

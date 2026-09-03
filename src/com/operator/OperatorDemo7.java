@@ -14,6 +14,8 @@ public class OperatorDemo7 {
 
         System.out.println("是否在1～10之间：");
         System.out.println(result);
+
+        sc.close();
     }
 }
 

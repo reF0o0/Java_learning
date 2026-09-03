@@ -13,6 +13,8 @@ public class OperatorDemo9 {
         int result = a >= b ? a : b;
         System.out.println("较大的数是：");
         System.out.println(result);
+
+        sc.close();
     }
 }
 
