@@ -18,5 +18,7 @@ public class IfDemo4 {
         } else {
             System.out.println("成绩不合理");
         }
+
+        sc.close();
     }
 }

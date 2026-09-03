@@ -32,6 +32,8 @@ public class IfDemo6 {
         } else {
             System.out.println("使用优惠卷更优惠，优惠" + discont + '元');
         }
+
+        sc.close();
     }
 }
 

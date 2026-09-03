@@ -34,6 +34,8 @@ public class IfDemo7 {
         double count = money + extra;
 
         System.out.println("赠送金额：" + extra + "，剩余余额：" + count);
+
+        sc.close();
     }
 }
 

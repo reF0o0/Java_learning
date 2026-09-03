@@ -43,6 +43,8 @@ public class IfDemo5 {
             System.out.println("输入错误");
         }
         System.out.println("最优惠价格：" + price);
+
+        sc.close();
     }
 }
 

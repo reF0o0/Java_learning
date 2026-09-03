@@ -30,5 +30,7 @@ public class IfDemo2 {
         }
 
         System.out.println("剩余血量：" + health2);
+
+        sc.close();
     }
 }
