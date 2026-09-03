@@ -15,5 +15,7 @@ public class ScannerDemo3 {
         double BMI = weight / (height * height);
         System.out.println("BMI指数是：");
         System.out.println(BMI);
+
+        sc.close();
     }
 }
