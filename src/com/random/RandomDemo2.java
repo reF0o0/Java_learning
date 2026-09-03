@@ -26,6 +26,8 @@ public class RandomDemo2 {
                 System.out.println("你猜的数字大了");
             }
         }
+
+        sc.close();
     }
 }
 
