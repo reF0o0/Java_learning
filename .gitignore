@@ -49,3 +49,4 @@ build/
 *.key
 
 output/
+AGENTS.md
